@@ -1,0 +1,1 @@
+This is the first assignment from The Odin Project.  Starting of with HTML scaffolding then looping back with some basic styling. Not sure if JS will show up in this project in the Odin Project curriculum.  
